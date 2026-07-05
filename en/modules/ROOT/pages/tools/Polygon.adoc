@@ -4,6 +4,8 @@ ifdef::env-github[:imagesdir: /en/modules/ROOT/assets/images]
 
 Activate the tool, then select consecutively at least three existing points (or click at least three distinct positions in the _Graphics View_) which will be the vertices of the polygon. Click the first vertex again to "close" the polygon.
 
+Draw a polygon with your cursor on the graph by holding left-click on your mouse. Draw a polygon that has up to 5 sides. When you're complete drawing a polygon, release left-click and then the polygon is done drawing.
+
 Holding down the [.kcode]#Alt# (MacOS : [.kcode]##option##) key after selecting a vertex of the polygon allows to create the next vertex such that the side between these two points makes with the preceding side an angle that is a multiple of 15°.
 
 [NOTE]
